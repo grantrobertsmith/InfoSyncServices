@@ -1,1 +1,1 @@
-This repository is located here. (`You can get it here <http://www.postgresql.org/download/>`_.)
+This repository is located [here](https://www.github.com/grantrobertsmith/Singular).
